@@ -33,7 +33,7 @@ const ExternalLink = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
         fill="none"
         stroke={color}
@@ -49,7 +49,7 @@ const ExternalLink = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="10"
         y1="14"
         x2="21"

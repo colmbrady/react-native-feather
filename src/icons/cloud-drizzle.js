@@ -33,7 +33,7 @@ const CloudDrizzle = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="8"
         y1="19"
         x2="8"
@@ -99,7 +99,7 @@ const CloudDrizzle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"
         fill="none"
         stroke={color}

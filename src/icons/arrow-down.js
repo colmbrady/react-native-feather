@@ -33,7 +33,7 @@ const ArrowDown = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="12"
         y1="5"
         x2="12"

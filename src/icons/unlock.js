@@ -46,7 +46,7 @@ const Unlock = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M7 11V7a5 5 0 0 1 9.9-1"
         fill="none"
         stroke={color}

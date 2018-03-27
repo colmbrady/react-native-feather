@@ -41,7 +41,7 @@ const Repeat = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M3 11V9a4 4 0 0 1 4-4h14"
         fill="none"
         stroke={color}

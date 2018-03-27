@@ -49,7 +49,7 @@ const Maximize2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="21"
         y1="3"
         x2="14"

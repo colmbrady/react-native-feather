@@ -33,7 +33,7 @@ const Headphones = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M3 18v-6a9 9 0 0 1 18 0v6"
         fill="none"
         stroke={color}

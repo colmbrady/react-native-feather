@@ -33,7 +33,7 @@ const Power = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M18.36 6.64a9 9 0 1 1-12.73 0"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const Power = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="2"
         x2="12"

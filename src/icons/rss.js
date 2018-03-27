@@ -33,7 +33,7 @@ const Rss = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M4 11a9 9 0 0 1 9 9"
         fill="none"
         stroke={color}

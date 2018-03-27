@@ -33,7 +33,7 @@ const Menu = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="3"
         y1="12"
         x2="21"

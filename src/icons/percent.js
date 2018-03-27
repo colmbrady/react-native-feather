@@ -33,7 +33,7 @@ const Percent = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="19"
         y1="5"
         x2="5"

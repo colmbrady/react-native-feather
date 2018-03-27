@@ -63,7 +63,7 @@ const Share2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8.59"
         y1="13.51"
         x2="15.42"

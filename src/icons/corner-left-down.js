@@ -41,7 +41,7 @@ const CornerLeftDown = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M20 4h-7a4 4 0 0 0-4 4v12"
         fill="none"
         stroke={color}

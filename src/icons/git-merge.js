@@ -53,7 +53,7 @@ const GitMerge = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M6 21V9a9 9 0 0 0 9 9"
         fill="none"
         stroke={color}

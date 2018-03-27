@@ -43,7 +43,7 @@ const Crosshair = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="22"
         y1="12"
         x2="18"

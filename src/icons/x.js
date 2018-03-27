@@ -33,7 +33,7 @@ const X = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="18"
         y1="6"
         x2="6"

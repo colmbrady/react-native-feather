@@ -57,7 +57,7 @@ const ZapOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="1"
         y1="1"
         x2="23"

@@ -51,7 +51,7 @@ const ArrowLeftCircle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16"
         y1="12"
         x2="8"

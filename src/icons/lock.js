@@ -46,7 +46,7 @@ const Lock = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M7 11V7a5 5 0 0 1 10 0v4"
         fill="none"
         stroke={color}

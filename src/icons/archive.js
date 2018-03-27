@@ -52,7 +52,7 @@ const Archive = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="10"
         y1="12"
         x2="14"

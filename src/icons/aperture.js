@@ -43,7 +43,7 @@ const Aperture = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14.31"
         y1="8"
         x2="20.05"

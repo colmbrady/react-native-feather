@@ -53,7 +53,7 @@ const Chrome = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="21.17"
         y1="8"
         x2="12"

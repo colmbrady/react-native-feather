@@ -46,7 +46,7 @@ const Calendar = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16"
         y1="2"
         x2="16"

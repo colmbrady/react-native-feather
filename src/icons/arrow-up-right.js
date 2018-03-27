@@ -33,7 +33,7 @@ const ArrowUpRight = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="7"
         y1="17"
         x2="17"

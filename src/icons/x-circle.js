@@ -43,7 +43,7 @@ const XCircle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="15"
         y1="9"
         x2="9"

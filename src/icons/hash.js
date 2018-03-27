@@ -33,7 +33,7 @@ const Hash = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="4"
         y1="9"
         x2="20"

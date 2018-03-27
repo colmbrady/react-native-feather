@@ -44,7 +44,7 @@ const Database = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"
         fill="none"
         stroke={color}

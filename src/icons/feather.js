@@ -33,7 +33,7 @@ const Feather = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const Feather = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16"
         y1="8"
         x2="2"

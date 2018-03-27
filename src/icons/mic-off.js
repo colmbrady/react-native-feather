@@ -33,7 +33,7 @@ const MicOff = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="1"
         y1="1"
         x2="23"
@@ -44,7 +44,7 @@ const MicOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M9 9v3a3 3 0 0 0 5.12 2.12M15 9.34V4a3 3 0 0 0-5.94-.6"
         fill="none"
         stroke={color}

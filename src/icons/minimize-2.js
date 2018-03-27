@@ -49,7 +49,7 @@ const Minimize2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14"
         y1="10"
         x2="21"

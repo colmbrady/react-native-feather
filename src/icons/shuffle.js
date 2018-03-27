@@ -41,7 +41,7 @@ const Shuffle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4"
         y1="20"
         x2="21"

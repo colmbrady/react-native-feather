@@ -41,7 +41,7 @@ const Map = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="2"
         x2="8"

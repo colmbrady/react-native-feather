@@ -33,7 +33,7 @@ const Minus = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="5"
         y1="12"
         x2="19"

@@ -41,7 +41,7 @@ const Terminal = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="19"
         x2="20"

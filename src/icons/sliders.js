@@ -33,7 +33,7 @@ const Sliders = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="4"
         y1="21"
         x2="4"

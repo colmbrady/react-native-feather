@@ -33,7 +33,7 @@ const Underline = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M6 3v7a6 6 0 0 0 6 6 6 6 0 0 0 6-6V3"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const Underline = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4"
         y1="21"
         x2="20"

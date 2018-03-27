@@ -65,7 +65,7 @@ const Move = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="2"
         y1="12"
         x2="22"

@@ -33,7 +33,7 @@ const LogOut = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"
         fill="none"
         stroke={color}
@@ -49,7 +49,7 @@ const LogOut = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="21"
         y1="12"
         x2="9"

@@ -24,9 +24,10 @@ glob(`${rootDir}/src/feather/icons/**.svg`, (err, icons) => {
     // We need to duplicate the styles applied to the
     // SVG to its children
     const svgAttribs = $('svg')[0].attribs;
+    delete svgAttribs['xmlns'];
     const attribsOfInterest = {};
     Object.keys(svgAttribs).forEach((key) => {
-      if (key !== 'xmlns' && key !== 'height'
+      if (key !== 'height'
         && key !== 'width' && key !== 'viewBox') {
         attribsOfInterest[key] = svgAttribs[key];
       }

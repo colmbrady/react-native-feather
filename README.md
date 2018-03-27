@@ -3,12 +3,14 @@
 [![npm](https://img.shields.io/npm/v/react-native-feather.svg)](https://www.npmjs.com/package/react-native-feather)
 
 #### Simply beautiful SVG icons as React Native SVG components.
-This repository is a copy of the [colebemis](https://github.com/colebemis/) React Feather project.
+This repository is a copy of the [React Feather](https://github.com/colebemis/react-feather) project.
 
-The only difference between the projects is that this project outputs React Native SVG components that will render on React Native platforms.
+The main difference between them is that this project outputs React Native SVG components that will render on React Native platforms.
 
 ### Installation
-    npm install react-native-feather --save
+    npm install react-native-feather --save (Not yet published NPM)
+
+You will also need to ensure you have installed [React Native SVG](https://github.com/react-native-community/react-native-svg) into your project.
 
 ### Usage
 

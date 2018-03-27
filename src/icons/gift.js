@@ -19,7 +19,7 @@ import {
   Stop,
 } from 'react-native-svg';
 
-const Feather = props => {
+const Gift = props => {
   const { color, size, ...otherProps } = props;
   return (
     <Svg
@@ -33,30 +33,46 @@ const Feather = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
+      <Polyline
+        points="20 12 20 22 4 22 4 12"
+        fill="none"
+        stroke={color}
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <Rect
+        x="2"
+        y="7"
+        width="20"
+        height="5"
+        fill="none"
+        stroke={color}
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <line
+        x1="12"
+        y1="22"
+        x2="12"
+        y2="7"
+        fill="none"
+        stroke={color}
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
       <path
-        d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"
+        d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"
         fill="none"
         stroke={color}
         strokeWidth="2"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
-        x1="16"
-        y1="8"
-        x2="2"
-        y2="22"
-        fill="none"
-        stroke={color}
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <line
-        x1="17"
-        y1="15"
-        x2="9"
-        y2="15"
+      <path
+        d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"
         fill="none"
         stroke={color}
         strokeWidth="2"
@@ -67,14 +83,14 @@ const Feather = props => {
   );
 };
 
-Feather.propTypes = {
+Gift.propTypes = {
   color: PropTypes.string,
   size: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
 };
 
-Feather.defaultProps = {
+Gift.defaultProps = {
   color: 'black',
   size: '24',
 };
 
-export default Feather;
+export default Gift;

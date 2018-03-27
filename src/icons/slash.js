@@ -43,7 +43,7 @@ const Slash = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4.93"
         y1="4.93"
         x2="19.07"

@@ -41,7 +41,7 @@ const Codepen = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="22"
         x2="12"

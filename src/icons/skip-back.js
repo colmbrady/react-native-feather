@@ -41,7 +41,7 @@ const SkipBack = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="5"
         y1="19"
         x2="5"

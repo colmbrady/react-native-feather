@@ -53,7 +53,7 @@ const Scissors = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="20"
         y1="4"
         x2="8.12"

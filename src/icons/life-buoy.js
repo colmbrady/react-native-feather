@@ -53,7 +53,7 @@ const LifeBuoy = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4.93"
         y1="4.93"
         x2="9.17"

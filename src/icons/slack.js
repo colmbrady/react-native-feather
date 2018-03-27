@@ -33,7 +33,7 @@ const Slack = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M22.08 9C19.81 1.41 16.54-.35 9 1.92S-.35 7.46 1.92 15 7.46 24.35 15 22.08 24.35 16.54 22.08 9z"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const Slack = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12.57"
         y1="5.99"
         x2="16.15"

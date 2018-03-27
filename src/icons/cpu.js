@@ -57,7 +57,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9"
         y1="1"
         x2="9"

@@ -46,7 +46,7 @@ const XSquare = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9"
         y1="9"
         x2="15"

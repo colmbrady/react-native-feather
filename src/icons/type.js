@@ -41,7 +41,7 @@ const Type = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9"
         y1="20"
         x2="15"

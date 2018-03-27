@@ -33,7 +33,7 @@ const Loader = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="12"
         y1="2"
         x2="12"

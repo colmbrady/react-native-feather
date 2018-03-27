@@ -33,7 +33,7 @@ const CloudSnow = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M20 17.58A5 5 0 0 0 18 8h-1.26A8 8 0 1 0 4 16.25"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const CloudSnow = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="16"
         x2="8"

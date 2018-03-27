@@ -53,7 +53,7 @@ const Voicemail = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="5.5"
         y1="16"
         x2="18.5"

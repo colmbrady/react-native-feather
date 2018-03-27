@@ -33,7 +33,7 @@ const Flag = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const Flag = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4"
         y1="22"
         x2="4"

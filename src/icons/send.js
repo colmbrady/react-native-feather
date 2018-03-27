@@ -33,7 +33,7 @@ const Send = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="22"
         y1="2"
         x2="11"

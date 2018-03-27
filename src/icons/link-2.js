@@ -33,7 +33,7 @@ const Link2 = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const Link2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="12"
         x2="16"

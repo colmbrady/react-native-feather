@@ -33,7 +33,7 @@ const FilePlus = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"
         fill="none"
         stroke={color}
@@ -49,7 +49,7 @@ const FilePlus = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="18"
         x2="12"

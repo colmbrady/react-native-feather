@@ -33,7 +33,7 @@ const CloudRain = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="16"
         y1="13"
         x2="16"
@@ -66,7 +66,7 @@ const CloudRain = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25"
         fill="none"
         stroke={color}

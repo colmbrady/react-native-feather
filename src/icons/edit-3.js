@@ -41,7 +41,7 @@ const Edit3 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="22"
         x2="21"

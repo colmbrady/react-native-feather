@@ -33,7 +33,7 @@ const Sunset = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M17 18a5 5 0 0 0-10 0"
         fill="none"
         stroke={color}
@@ -41,7 +41,7 @@ const Sunset = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="9"
         x2="12"

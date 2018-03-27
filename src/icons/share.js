@@ -33,7 +33,7 @@ const Share = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"
         fill="none"
         stroke={color}
@@ -49,7 +49,7 @@ const Share = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="2"
         x2="12"

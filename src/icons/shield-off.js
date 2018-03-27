@@ -33,7 +33,7 @@ const ShieldOff = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M19.69 14a6.9 6.9 0 0 0 .31-2V5l-8-3-3.16 1.18"
         fill="none"
         stroke={color}
@@ -49,7 +49,7 @@ const ShieldOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="1"
         y1="1"
         x2="23"

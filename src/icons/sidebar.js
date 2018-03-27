@@ -46,7 +46,7 @@ const Sidebar = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9"
         y1="3"
         x2="9"

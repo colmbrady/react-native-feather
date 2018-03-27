@@ -46,7 +46,7 @@ const CreditCard = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="1"
         y1="10"
         x2="23"

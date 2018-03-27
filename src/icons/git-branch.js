@@ -33,7 +33,7 @@ const GitBranch = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="6"
         y1="3"
         x2="6"
@@ -64,7 +64,7 @@ const GitBranch = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M18 9a9 9 0 0 1-9 9"
         fill="none"
         stroke={color}

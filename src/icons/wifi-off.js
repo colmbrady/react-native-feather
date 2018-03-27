@@ -33,7 +33,7 @@ const WifiOff = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="1"
         y1="1"
         x2="23"
@@ -44,7 +44,7 @@ const WifiOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M16.72 11.06A10.94 10.94 0 0 1 19 12.55"
         fill="none"
         stroke={color}

@@ -52,7 +52,7 @@ const Gift = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="22"
         x2="12"
@@ -63,7 +63,7 @@ const Gift = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"
         fill="none"
         stroke={color}

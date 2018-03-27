@@ -43,7 +43,7 @@ const Anchor = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="22"
         x2="12"
@@ -54,7 +54,7 @@ const Anchor = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M5 12H2a10 10 0 0 0 20 0h-3"
         fill="none"
         stroke={color}

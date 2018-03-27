@@ -47,7 +47,7 @@ const Tablet = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="18"
         x2="12"

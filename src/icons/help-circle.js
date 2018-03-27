@@ -43,7 +43,7 @@ const HelpCircle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"
         fill="none"
         stroke={color}
@@ -51,7 +51,7 @@ const HelpCircle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="17"
         x2="12"

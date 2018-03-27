@@ -53,7 +53,7 @@ const GitPullRequest = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M13 6h3a2 2 0 0 1 2 2v7"
         fill="none"
         stroke={color}
@@ -61,7 +61,7 @@ const GitPullRequest = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="6"
         y1="9"
         x2="6"

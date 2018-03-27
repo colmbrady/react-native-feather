@@ -41,7 +41,7 @@ const VolumeX = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="23"
         y1="9"
         x2="17"

@@ -33,7 +33,7 @@ const AlignLeft = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="17"
         y1="10"
         x2="3"

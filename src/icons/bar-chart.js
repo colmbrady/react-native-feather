@@ -33,7 +33,7 @@ const BarChart = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <line
+      <Line
         x1="12"
         y1="20"
         x2="12"

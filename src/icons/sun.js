@@ -43,7 +43,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="1"
         x2="12"

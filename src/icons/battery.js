@@ -46,7 +46,7 @@ const Battery = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="23"
         y1="13"
         x2="23"

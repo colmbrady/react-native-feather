@@ -33,7 +33,7 @@ const Book = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
+      <Path
         d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"
         fill="none"
         stroke={color}

@@ -19,7 +19,7 @@ import {
   Stop,
 } from 'react-native-svg';
 
-const Feather = props => {
+const Youtube = props => {
   const { color, size, ...otherProps } = props;
   return (
     <Svg
@@ -34,29 +34,15 @@ const Feather = props => {
       {...otherProps}
     >
       <path
-        d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"
+        d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"
         fill="none"
         stroke={color}
         strokeWidth="2"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
-        x1="16"
-        y1="8"
-        x2="2"
-        y2="22"
-        fill="none"
-        stroke={color}
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <line
-        x1="17"
-        y1="15"
-        x2="9"
-        y2="15"
+      <Polygon
+        points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"
         fill="none"
         stroke={color}
         strokeWidth="2"
@@ -67,14 +53,14 @@ const Feather = props => {
   );
 };
 
-Feather.propTypes = {
+Youtube.propTypes = {
   color: PropTypes.string,
   size: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
 };
 
-Feather.defaultProps = {
+Youtube.defaultProps = {
   color: 'black',
   size: '24',
 };
 
-export default Feather;
+export default Youtube;

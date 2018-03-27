@@ -19,7 +19,7 @@ import {
   Stop,
 } from 'react-native-svg';
 
-const Feather = props => {
+const Archive = props => {
   const { color, size, ...otherProps } = props;
   return (
     <Svg
@@ -33,8 +33,19 @@ const Feather = props => {
       strokeLinejoin="round"
       {...otherProps}
     >
-      <path
-        d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"
+      <Polyline
+        points="21 8 21 21 3 21 3 8"
+        fill="none"
+        stroke={color}
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <Rect
+        x="1"
+        y="3"
+        width="22"
+        height="5"
         fill="none"
         stroke={color}
         strokeWidth="2"
@@ -42,21 +53,10 @@ const Feather = props => {
         strokeLinejoin="round"
       />
       <line
-        x1="16"
-        y1="8"
-        x2="2"
-        y2="22"
-        fill="none"
-        stroke={color}
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <line
-        x1="17"
-        y1="15"
-        x2="9"
-        y2="15"
+        x1="10"
+        y1="12"
+        x2="14"
+        y2="12"
         fill="none"
         stroke={color}
         strokeWidth="2"
@@ -67,14 +67,14 @@ const Feather = props => {
   );
 };
 
-Feather.propTypes = {
+Archive.propTypes = {
   color: PropTypes.string,
   size: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
 };
 
-Feather.defaultProps = {
+Archive.defaultProps = {
   color: 'black',
   size: '24',
 };
 
-export default Feather;
+export default Archive;

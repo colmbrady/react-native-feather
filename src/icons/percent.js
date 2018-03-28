@@ -54,7 +54,7 @@ const Percent = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="17.5"
         cy="17.5"
         r="2.5"

@@ -44,7 +44,7 @@ const List = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="12"
         x2="21"
@@ -55,7 +55,7 @@ const List = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="18"
         x2="21"
@@ -66,7 +66,7 @@ const List = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="6"
         x2="3"
@@ -77,7 +77,7 @@ const List = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="12"
         x2="3"
@@ -88,7 +88,7 @@ const List = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="18"
         x2="3"

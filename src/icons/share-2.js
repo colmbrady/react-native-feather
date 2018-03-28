@@ -43,7 +43,7 @@ const Share2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="6"
         cy="12"
         r="3"
@@ -53,7 +53,7 @@ const Share2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="18"
         cy="19"
         r="3"
@@ -74,7 +74,7 @@ const Share2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="15.41"
         y1="6.51"
         x2="8.59"

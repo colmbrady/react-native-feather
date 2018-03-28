@@ -41,7 +41,7 @@ const Bold = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M6 12h9a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z"
         fill="none"
         stroke={color}

@@ -54,7 +54,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="21"
         x2="12"
@@ -65,7 +65,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4.22"
         y1="4.22"
         x2="5.64"
@@ -76,7 +76,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="18.36"
         y1="18.36"
         x2="19.78"
@@ -87,7 +87,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="1"
         y1="12"
         x2="3"
@@ -98,7 +98,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="21"
         y1="12"
         x2="23"
@@ -109,7 +109,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4.22"
         y1="19.78"
         x2="5.64"
@@ -120,7 +120,7 @@ const Sun = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="18.36"
         y1="5.64"
         x2="19.78"

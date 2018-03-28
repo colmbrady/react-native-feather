@@ -54,7 +54,7 @@ const ZoomOut = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="11"
         x2="14"

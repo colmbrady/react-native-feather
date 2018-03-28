@@ -52,7 +52,7 @@ const HardDrive = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="6"
         y1="16"
         x2="6"
@@ -63,7 +63,7 @@ const HardDrive = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="10"
         y1="16"
         x2="10"

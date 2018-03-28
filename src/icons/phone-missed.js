@@ -44,7 +44,7 @@ const PhoneMissed = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="17"
         y1="1"
         x2="23"

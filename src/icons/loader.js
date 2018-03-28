@@ -44,7 +44,7 @@ const Loader = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="18"
         x2="12"
@@ -55,7 +55,7 @@ const Loader = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4.93"
         y1="4.93"
         x2="7.76"
@@ -66,7 +66,7 @@ const Loader = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16.24"
         y1="16.24"
         x2="19.07"
@@ -77,7 +77,7 @@ const Loader = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="2"
         y1="12"
         x2="6"
@@ -88,7 +88,7 @@ const Loader = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="18"
         y1="12"
         x2="22"
@@ -99,7 +99,7 @@ const Loader = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4.93"
         y1="19.07"
         x2="7.76"
@@ -110,7 +110,7 @@ const Loader = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16.24"
         y1="7.76"
         x2="19.07"

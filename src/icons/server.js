@@ -46,7 +46,7 @@ const Server = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <rect
+      <Rect
         x="2"
         y="14"
         width="20"
@@ -70,7 +70,7 @@ const Server = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="6"
         y1="18"
         x2="6"

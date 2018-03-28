@@ -41,7 +41,7 @@ const Rss = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M4 4a16 16 0 0 1 16 16"
         fill="none"
         stroke={color}

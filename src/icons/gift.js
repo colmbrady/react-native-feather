@@ -71,7 +71,7 @@ const Gift = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"
         fill="none"
         stroke={color}

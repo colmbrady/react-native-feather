@@ -43,7 +43,7 @@ const Disc = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="12"
         cy="12"
         r="3"

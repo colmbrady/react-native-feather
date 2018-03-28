@@ -52,7 +52,7 @@ const Slack = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="7.85"
         y1="7.61"
         x2="11.43"
@@ -63,7 +63,7 @@ const Slack = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16.39"
         y1="7.85"
         x2="5.99"
@@ -74,7 +74,7 @@ const Slack = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="18.01"
         y1="12.57"
         x2="7.61"

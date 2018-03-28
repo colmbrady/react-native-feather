@@ -52,7 +52,7 @@ const ShoppingBag = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M16 10a4 4 0 0 1-8 0"
         fill="none"
         stroke={color}

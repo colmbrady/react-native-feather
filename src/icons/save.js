@@ -49,7 +49,7 @@ const Save = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="7 3 7 8 15 8"
         fill="none"
         stroke={color}

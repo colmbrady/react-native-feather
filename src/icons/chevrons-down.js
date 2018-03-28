@@ -41,7 +41,7 @@ const ChevronsDown = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="7 6 12 11 17 6"
         fill="none"
         stroke={color}

@@ -60,7 +60,7 @@ const UploadCloud = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="16 16 12 12 8 16"
         fill="none"
         stroke={color}

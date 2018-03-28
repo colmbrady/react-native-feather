@@ -43,7 +43,7 @@ const Chrome = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="12"
         cy="12"
         r="4"
@@ -64,7 +64,7 @@ const Chrome = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3.95"
         y1="6.06"
         x2="8.54"
@@ -75,7 +75,7 @@ const Chrome = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="10.88"
         y1="21.94"
         x2="15.46"

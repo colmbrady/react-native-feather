@@ -41,7 +41,7 @@ const FastForward = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polygon
+      <Polygon
         points="2 19 11 12 2 5 2 19"
         fill="none"
         stroke={color}

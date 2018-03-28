@@ -54,7 +54,7 @@ const Aperture = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9.69"
         y1="8"
         x2="21.17"
@@ -65,7 +65,7 @@ const Aperture = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="7.38"
         y1="12"
         x2="13.12"
@@ -76,7 +76,7 @@ const Aperture = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9.69"
         y1="16"
         x2="3.95"
@@ -87,7 +87,7 @@ const Aperture = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14.31"
         y1="16"
         x2="2.83"
@@ -98,7 +98,7 @@ const Aperture = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16.62"
         y1="12"
         x2="10.88"

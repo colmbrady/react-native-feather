@@ -49,7 +49,7 @@ const Layers = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="2 12 12 17 22 12"
         fill="none"
         stroke={color}

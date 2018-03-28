@@ -46,7 +46,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <rect
+      <Rect
         x="9"
         y="9"
         width="6"
@@ -68,7 +68,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="15"
         y1="1"
         x2="15"
@@ -79,7 +79,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9"
         y1="20"
         x2="9"
@@ -90,7 +90,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="15"
         y1="20"
         x2="15"
@@ -101,7 +101,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="20"
         y1="9"
         x2="23"
@@ -112,7 +112,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="20"
         y1="14"
         x2="23"
@@ -123,7 +123,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="1"
         y1="9"
         x2="4"
@@ -134,7 +134,7 @@ const Cpu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="1"
         y1="14"
         x2="4"

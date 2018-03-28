@@ -41,7 +41,7 @@ const RefreshCw = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="1 20 1 14 7 14"
         fill="none"
         stroke={color}

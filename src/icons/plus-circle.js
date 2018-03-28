@@ -54,7 +54,7 @@ const PlusCircle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="12"
         x2="16"

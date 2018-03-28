@@ -62,7 +62,7 @@ const Truck = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="18.5"
         cy="18.5"
         r="2.5"

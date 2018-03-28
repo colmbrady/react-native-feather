@@ -44,7 +44,7 @@ const Grid = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <rect
+      <Rect
         x="14"
         y="3"
         width="7"
@@ -55,7 +55,7 @@ const Grid = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <rect
+      <Rect
         x="14"
         y="14"
         width="7"
@@ -66,7 +66,7 @@ const Grid = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <rect
+      <Rect
         x="3"
         y="14"
         width="7"

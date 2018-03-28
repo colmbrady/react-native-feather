@@ -44,7 +44,7 @@ const Italic = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14"
         y1="20"
         x2="5"
@@ -55,7 +55,7 @@ const Italic = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="15"
         y1="4"
         x2="9"

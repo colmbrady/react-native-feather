@@ -43,7 +43,7 @@ const Scissors = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="6"
         cy="18"
         r="3"
@@ -64,7 +64,7 @@ const Scissors = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14.47"
         y1="14.48"
         x2="20"
@@ -75,7 +75,7 @@ const Scissors = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8.12"
         y1="8.12"
         x2="12"

@@ -44,7 +44,7 @@ const Menu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="6"
         x2="21"
@@ -55,7 +55,7 @@ const Menu = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="18"
         x2="21"

@@ -43,7 +43,7 @@ const GitMerge = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="6"
         cy="6"
         r="3"

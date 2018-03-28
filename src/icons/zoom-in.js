@@ -54,7 +54,7 @@ const ZoomIn = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="11"
         y1="8"
         x2="11"
@@ -65,7 +65,7 @@ const ZoomIn = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="11"
         x2="14"

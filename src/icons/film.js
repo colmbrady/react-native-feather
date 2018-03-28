@@ -57,7 +57,7 @@ const Film = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="17"
         y1="2"
         x2="17"
@@ -68,7 +68,7 @@ const Film = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="2"
         y1="12"
         x2="22"
@@ -79,7 +79,7 @@ const Film = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="2"
         y1="7"
         x2="7"
@@ -90,7 +90,7 @@ const Film = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="2"
         y1="17"
         x2="7"
@@ -101,7 +101,7 @@ const Film = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="17"
         y1="17"
         x2="22"
@@ -112,7 +112,7 @@ const Film = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="17"
         y1="7"
         x2="22"

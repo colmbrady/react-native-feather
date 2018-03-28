@@ -41,7 +41,7 @@ const Move = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="9 5 12 2 15 5"
         fill="none"
         stroke={color}
@@ -49,7 +49,7 @@ const Move = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="15 19 12 22 9 19"
         fill="none"
         stroke={color}
@@ -57,7 +57,7 @@ const Move = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="19 9 22 12 19 15"
         fill="none"
         stroke={color}
@@ -76,7 +76,7 @@ const Move = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="2"
         x2="12"

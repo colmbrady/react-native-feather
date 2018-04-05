@@ -41,7 +41,7 @@ const ZapOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="18.57 12.91 21 10 15.66 10"
         fill="none"
         stroke={color}
@@ -49,7 +49,7 @@ const ZapOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="8 8 3 14 12 14 11 22 16 16"
         fill="none"
         stroke={color}

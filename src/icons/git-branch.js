@@ -54,7 +54,7 @@ const GitBranch = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="6"
         cy="18"
         r="3"

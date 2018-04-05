@@ -60,7 +60,7 @@ const Codepen = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="2 15.5 12 8.5 22 15.5"
         fill="none"
         stroke={color}
@@ -68,7 +68,7 @@ const Codepen = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="2"
         x2="12"

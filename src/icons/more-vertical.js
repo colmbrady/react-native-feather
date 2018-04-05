@@ -43,7 +43,7 @@ const MoreVertical = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="12"
         cy="5"
         r="1"
@@ -53,7 +53,7 @@ const MoreVertical = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="12"
         cy="19"
         r="1"

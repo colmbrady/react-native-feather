@@ -54,7 +54,7 @@ const GitCommit = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="17.01"
         y1="12"
         x2="22.96"

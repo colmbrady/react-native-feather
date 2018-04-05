@@ -41,7 +41,7 @@ const Crop = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M1 6.13L16 6a2 2 0 0 1 2 2v15"
         fill="none"
         stroke={color}

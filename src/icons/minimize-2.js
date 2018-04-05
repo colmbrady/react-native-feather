@@ -41,7 +41,7 @@ const Minimize2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="20 10 14 10 14 4"
         fill="none"
         stroke={color}
@@ -60,7 +60,7 @@ const Minimize2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="21"
         x2="10"

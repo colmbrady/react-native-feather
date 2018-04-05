@@ -62,7 +62,7 @@ const UserPlus = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="23"
         y1="11"
         x2="17"

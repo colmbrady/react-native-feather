@@ -52,7 +52,7 @@ const AlertTriangle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="17"
         x2="12"

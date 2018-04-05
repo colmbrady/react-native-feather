@@ -60,7 +60,7 @@ const FilePlus = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9"
         y1="15"
         x2="15"

@@ -60,7 +60,7 @@ const Trash2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14"
         y1="11"
         x2="14"

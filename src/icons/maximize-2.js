@@ -41,7 +41,7 @@ const Maximize2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="9 21 3 21 3 15"
         fill="none"
         stroke={color}
@@ -60,7 +60,7 @@ const Maximize2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="3"
         y1="21"
         x2="10"

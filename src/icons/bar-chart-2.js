@@ -44,7 +44,7 @@ const BarChart2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="20"
         x2="12"
@@ -55,7 +55,7 @@ const BarChart2 = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="6"
         y1="20"
         x2="6"

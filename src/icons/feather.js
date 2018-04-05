@@ -52,7 +52,7 @@ const Feather = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="17"
         y1="15"
         x2="9"

@@ -52,7 +52,7 @@ const WifiOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M5 12.55a10.94 10.94 0 0 1 5.17-2.39"
         fill="none"
         stroke={color}
@@ -60,7 +60,7 @@ const WifiOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M10.71 5.05A16 16 0 0 1 22.58 9"
         fill="none"
         stroke={color}
@@ -68,7 +68,7 @@ const WifiOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M1.42 9a15.91 15.91 0 0 1 4.7-2.88"
         fill="none"
         stroke={color}
@@ -76,7 +76,7 @@ const WifiOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M8.53 16.11a6 6 0 0 1 6.95 0"
         fill="none"
         stroke={color}
@@ -84,7 +84,7 @@ const WifiOff = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="20"
         x2="12"

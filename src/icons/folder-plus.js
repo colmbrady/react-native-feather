@@ -52,7 +52,7 @@ const FolderPlus = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="9"
         y1="14"
         x2="15"

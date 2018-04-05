@@ -52,7 +52,7 @@ const Shuffle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="21 16 21 21 16 21"
         fill="none"
         stroke={color}
@@ -60,7 +60,7 @@ const Shuffle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="15"
         y1="15"
         x2="21"
@@ -71,7 +71,7 @@ const Shuffle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4"
         y1="4"
         x2="9"

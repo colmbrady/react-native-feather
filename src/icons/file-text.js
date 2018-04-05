@@ -60,7 +60,7 @@ const FileText = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16"
         y1="17"
         x2="8"
@@ -71,7 +71,7 @@ const FileText = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="10 9 9 9 8 9"
         fill="none"
         stroke={color}

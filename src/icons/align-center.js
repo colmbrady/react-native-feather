@@ -44,7 +44,7 @@ const AlignCenter = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="21"
         y1="6"
         x2="3"
@@ -55,7 +55,7 @@ const AlignCenter = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="21"
         y1="14"
         x2="3"
@@ -66,7 +66,7 @@ const AlignCenter = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="18"
         y1="18"
         x2="6"

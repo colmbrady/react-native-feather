@@ -54,7 +54,7 @@ const PauseCircle = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14"
         y1="15"
         x2="14"

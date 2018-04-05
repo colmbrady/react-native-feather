@@ -44,7 +44,7 @@ const Hash = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4"
         y1="15"
         x2="20"
@@ -55,7 +55,7 @@ const Hash = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="10"
         y1="3"
         x2="8"
@@ -66,7 +66,7 @@ const Hash = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16"
         y1="3"
         x2="14"

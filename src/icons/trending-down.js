@@ -41,7 +41,7 @@ const TrendingDown = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="17 18 23 18 23 12"
         fill="none"
         stroke={color}

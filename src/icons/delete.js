@@ -52,7 +52,7 @@ const Delete = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="9"
         x2="18"

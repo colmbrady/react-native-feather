@@ -60,7 +60,7 @@ const Package = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="7"
         y1="3.5"
         x2="17"

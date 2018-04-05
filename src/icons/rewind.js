@@ -41,7 +41,7 @@ const Rewind = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polygon
+      <Polygon
         points="22 19 13 12 22 5 22 19"
         fill="none"
         stroke={color}

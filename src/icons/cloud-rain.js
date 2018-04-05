@@ -44,7 +44,7 @@ const CloudRain = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="13"
         x2="8"
@@ -55,7 +55,7 @@ const CloudRain = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="15"
         x2="12"

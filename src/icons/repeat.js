@@ -49,7 +49,7 @@ const Repeat = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <polyline
+      <Polyline
         points="7 23 3 19 7 15"
         fill="none"
         stroke={color}
@@ -57,7 +57,7 @@ const Repeat = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path
+      <Path
         d="M21 13v2a4 4 0 0 1-4 4H3"
         fill="none"
         stroke={color}

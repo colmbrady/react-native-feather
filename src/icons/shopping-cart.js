@@ -43,7 +43,7 @@ const ShoppingCart = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="20"
         cy="21"
         r="1"

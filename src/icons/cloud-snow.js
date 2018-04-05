@@ -52,7 +52,7 @@ const CloudSnow = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="8"
         y1="20"
         x2="8"
@@ -63,7 +63,7 @@ const CloudSnow = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="18"
         x2="12"
@@ -74,7 +74,7 @@ const CloudSnow = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="12"
         y1="22"
         x2="12"
@@ -85,7 +85,7 @@ const CloudSnow = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16"
         y1="16"
         x2="16"
@@ -96,7 +96,7 @@ const CloudSnow = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="16"
         y1="20"
         x2="16"

@@ -43,7 +43,7 @@ const LifeBuoy = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="12"
         cy="12"
         r="4"
@@ -64,7 +64,7 @@ const LifeBuoy = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14.83"
         y1="14.83"
         x2="19.07"
@@ -75,7 +75,7 @@ const LifeBuoy = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14.83"
         y1="9.17"
         x2="19.07"
@@ -86,7 +86,7 @@ const LifeBuoy = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="14.83"
         y1="9.17"
         x2="18.36"
@@ -97,7 +97,7 @@ const LifeBuoy = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <line
+      <Line
         x1="4.93"
         y1="19.07"
         x2="9.17"

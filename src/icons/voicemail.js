@@ -43,7 +43,7 @@ const Voicemail = props => {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle
+      <_Circle
         cx="18.5"
         cy="11.5"
         r="4.5"

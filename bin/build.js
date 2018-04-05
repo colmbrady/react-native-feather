@@ -117,6 +117,7 @@ glob(`${rootDir}/src/feather/icons/**.svg`, (err, icons) => {
         .replace(new RegExp('</defs', 'g'), '</Defs')
         .replace(new RegExp('<stop', 'g'), '<Stop')
         .replace(new RegExp('</stop', 'g'), '</Stop')
+        .replace(new RegExp('px', 'g'), '')
       }
         )
       };
